@@ -116,7 +116,8 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     aspect-ratio: 1 / 1;
     object-fit: cover;
     width: 128px;
-    border-radius: 16px;
+    border-radius: 50%;
+    opacity: .6;
   }
 
   span {
@@ -167,9 +168,11 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
     }
 
     figure {
+      background-color: #ffffff;
       display: flex;
       justify-content: center;
       align-items: center;
+      border-radius: 50%;
     }
 
     h2 {

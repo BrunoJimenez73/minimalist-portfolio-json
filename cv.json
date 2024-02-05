@@ -1,213 +1,142 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
-    "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "name": "Bruno Jiménez Pardo",
+    "label": "Profesional técnico con más de 15 años de experiencia en el sector audiovisual. Jefe técnico video y audio, operador cámara, informática, ",
+    "image": "/me.png",
+    "email": "brunojimenez73@gmail.com",
+    "phone": "+34 611 631 440",
+    "url": "https://extrema-stream.com/",
+    "summary": "Profesional técnico con más de 15 años de experiencia en el sector audiovisual. Jefe técnico video y audio, operador cámara, informática, Flexibilidad para viajar, habilidoso para aprender y trabajar con nuevas tecnologías. Motivado y responsable. Gestión y resolución de problemas.",
     "location": {
-      "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
+      "address": "c/ Carpio 3",
+      "postalCode": "10470",
+      "city": "Villanueva de la Vera",
       "countryCode": "ES",
       "region": "España"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
-      },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
-      {
-        "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "Bruno Jiménez",
+        "url": "https://www.linkedin.com/in/bruno-jimenez-b0059a19b/"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "Bruno Jiménez Pardo",
+      "position": "Técnico vídeo autónomo.",
+      "startDate": "01/06/2023 ",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
+      "summary": "Instalación pantallas led, Realizador, Operador de cámara, Control de cámara (ccu), Técnico audio y video con distintas empresas (Fluge, Fader, BeOn, Be-Motion, Tecnicongres, Max-Audio, VAV…)",
       "highlights": [
-        "Started the company"
+        "Montaje Pantallas led Pixar"
       ]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "Asonga TV",
+      "position": "Director técnico de Asonga TV (en Guinea Ecuatorial)",
+      "url": "https://asongartv.com/",
+      "startDate": "01/03/2012",
+      "endDate": "01/11/2019",
+      "summary": "Instalación técnica inicial de un nuevo canal de TV en Guinea Ecuatorial: Instalación, configuración, formación de equipos, gestión de personal y mantenimiento de una gran variedad de equipos relacionados con la producción audiovisual.",
+      "highlights": ["Dirección programas, realizador, jefe técnico, op. cámara. Mantenimiento renovación equipos audiovisuales" ]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "name": "Jefe técnico en VAV",
+      "position": "Jefe técnico video",
+      "startDate": "01/02/2010",
+      "endDate": "01/01/2012",
+      "summary": "Jefe técnico y CCU (Control Camera Unit) en diferentes series y programas de TV, in HD and SD. Trabajando con equipos ENG, instalaciones en platos y producciones con unidad móvil.",
       "highlights": [
-        "Started the company"
+        "Retransmisiones de eventos con repercusión internacional: Deportes (Futbol, Campeonato de Cross, Baloncesto, Vuelta ciclista)", "Eventos musicales, Series , programas TV"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
+
+  "Otros estudios": [{
+    "institution": "(CEV) Centro de Estudios Audiovisuales",
+    "url": "https://www.cev.com/",
+    "area": "Audiovisuales",
+    "studyType": "Grado medio",
+    "startDate": "1994-01-01",
+    "endDate": "1996-01-01",
+    "courses": [
+      "Realización de proyectos audiovisuales"
     ]
   }],
   "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
+    "institution": "IES Lope de Vega",
+    "url": "#",
+    "area": "Ciencias",
+    "studyType": "Bachillerato",
+    "startDate": "1991-01-01",
+    "endDate": "1994-01-01",
     "courses": [
-      "DB1101 - Basic SQL"
+      "Realización de proyectos audiovisuales"
     ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+}],
   "skills": [
     {
-      "name": "HTML",
+      "name": "Sistemas de streaming:",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend"
+        "streaming", "video streaming"
       ]
     },
     {
-      "name": "CSS",
+      "name": "Montaje y configuracion pantallas led.",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
+        "pantallas led", "Novastar"
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Realizacion streaming",
       "level": "Master",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
+        "Tricaster", "Vmix", "Resolume", "Milumin", "OBS"
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "Informática",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Mantenimiento de sistemas informáticos"
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "Post-produción",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Davinci Resolve", "Adobe Premiere", "Avid-Media composer"
       ]
     },
     {
-      "name": "Node",
+      "name": "Tecnologías retransmision video TCP/IP ",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
+        "NDI", "SRT", "RTSMP"
       ]
     },
     {
-      "name": "MySQL",
-      "level": "Avanzado",
+      "name": "Carnet de conducir",
+      "level": "A1, B2",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
-    },
-    {
-      "name": "GitHub",
-      "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
-      ]
-    },
-    {
-      "name": "Next.js",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        "Coches", "Motos"
       ]
     }
   ],
   "languages": [
     {
-      "language": "Spanish",
-      "fluency": "Native speaker"
+      "language": "SpanEspañolish",
+      "fluency": "nativo"
     },
     {
-      "language": "English",
+      "language": "Inglés",
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
   "projects": [
     {
       "name": "mars.codes",
